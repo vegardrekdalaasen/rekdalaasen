@@ -18,9 +18,6 @@ params:
     - name: Laget fra
       url: "https://github.com/vegardrekdalaasen"
 
-  ShowReadingTime: true
-  ShowShareButtons: true
-
 menu:
   main:
     - identifier: categories
